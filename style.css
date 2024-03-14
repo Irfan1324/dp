@@ -3,4 +3,12 @@ body { font-family: 'Times New Roman', Times, serif;
 .orange {color: cornflowerblue;}
 section
     {display: flex}
-    .big-font {font-size: 50 px;}
+
+    .big-font {font-size: 20px;}
+    .big-font {width: 50%; }
+    .big-font {padding-left:20%;}
+    .order-now { background-color: orange;}
+    .order-now {color: white;}
+    .order-now {padding: 20px 60px;}
+    .order-now {border-radius: 20px;}
+    .order-now {text-decoration: none;}
