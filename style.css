@@ -1,3 +1,6 @@
 body { font-family: 'Times New Roman', Times, serif;
 }
 .orange {color: cornflowerblue;}
+section
+    {display: flex}
+    .big-font {font-size: 50 px;}
