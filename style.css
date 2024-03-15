@@ -29,6 +29,7 @@ section {
 
 .order-now {
     background-color: orange;
+    background-image: linear-gradient(orange);
 }
 
 .order-now {
@@ -50,4 +51,8 @@ section {
 .order-now {
     padding: 20px;
     margin-bottom: 20px;
+}
+
+.top-img {
+    background-image: url(pics/istockphoto-1178554344-2048x2048-transformed.jpeg);
 }
